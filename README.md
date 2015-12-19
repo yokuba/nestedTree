@@ -7,8 +7,8 @@ Treeview allows the user to create their own nested tree structure from a JSON f
 Refactoring
 ===========
 1. Move JSON to separate file
-2. Move JS to seaparate file
-3. Move CSS to seaparate file
+2. Move JS to separate file
+3. Move CSS to separate file
 4. Add express and node
 5. Add server
 6. Add jqTree plugin
